@@ -1,0 +1,41 @@
+
+.sortBtn {
+    float: right;
+    background: #222531;
+    border: none;
+    padding: 15px;
+    border-radius: 4px;
+    outline: none;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    width: 160px;
+    height: 45px;
+    cursor: pointer;
+    justify-content: space-between;
+    padding-right: 25px;
+}
+
+.sortBtn:active {
+    background: #222666;
+    outline: none;
+}
+
+.sortBtn span {
+    margin-left: 10px;
+    font-size: 12px;
+    color: #e2e2e2;
+}
+@media (max-width: 900px) {
+
+    .sortBtn {
+        margin: 0;
+        width: 142px;
+
+    }
+
+    .sortBtn span {
+        font-size: 10px;
+    }
+
+}

@@ -1,0 +1,12 @@
+.coinContainer {
+    border-top: 1px solid #2e2e2e;
+}
+
+.resultsDiv {
+    text-align: center;
+}
+
+.results {
+    margin: 25px;
+    font-size: 12px;
+}

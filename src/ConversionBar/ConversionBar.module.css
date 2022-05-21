@@ -1,0 +1,28 @@
+.usd_convert {
+    float: left;
+    display: flex;
+    align-items: center;
+    width: 320px;
+}
+
+.usd_input {
+    background: #222531;
+    border: none;
+    padding: 16px;
+    border-radius: 4px;
+    outline: none;
+    height: 45px;
+    width: 100%;
+}
+
+.usd_input::placeholder {
+    color: #e2e2e2;
+}
+
+@media (max-width: 900px) {
+    .usd_convert {
+        margin-bottom: 15px;
+        width: 300px;
+        float: none;
+    }
+}

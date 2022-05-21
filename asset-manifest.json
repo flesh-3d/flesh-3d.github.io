@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/crypto-swap/static/css/main.41c8559d.css",
-    "main.js": "/crypto-swap/static/js/main.cbc4bf41.js",
-    "static/css/712.e57158fa.chunk.css": "/crypto-swap/static/css/712.e57158fa.chunk.css",
-    "static/js/712.cca0278a.chunk.js": "/crypto-swap/static/js/712.cca0278a.chunk.js",
-    "index.html": "/crypto-swap/index.html",
-    "main.41c8559d.css.map": "/crypto-swap/static/css/main.41c8559d.css.map",
-    "main.cbc4bf41.js.map": "/crypto-swap/static/js/main.cbc4bf41.js.map",
-    "712.e57158fa.chunk.css.map": "/crypto-swap/static/css/712.e57158fa.chunk.css.map",
-    "712.cca0278a.chunk.js.map": "/crypto-swap/static/js/712.cca0278a.chunk.js.map"
+    "main.css": "/static/css/main.41c8559d.css",
+    "main.js": "/static/js/main.6d37eafb.js",
+    "static/css/712.e57158fa.chunk.css": "/static/css/712.e57158fa.chunk.css",
+    "static/js/712.cca0278a.chunk.js": "/static/js/712.cca0278a.chunk.js",
+    "index.html": "/index.html",
+    "main.41c8559d.css.map": "/static/css/main.41c8559d.css.map",
+    "main.6d37eafb.js.map": "/static/js/main.6d37eafb.js.map",
+    "712.e57158fa.chunk.css.map": "/static/css/712.e57158fa.chunk.css.map",
+    "712.cca0278a.chunk.js.map": "/static/js/712.cca0278a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41c8559d.css",
-    "static/js/main.cbc4bf41.js"
+    "static/js/main.6d37eafb.js"
   ]
 }
